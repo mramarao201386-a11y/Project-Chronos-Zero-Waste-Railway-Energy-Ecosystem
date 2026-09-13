@@ -6,7 +6,7 @@ A citizen-conceived, AI-assisted open-source national blueprint designed to tran
 ## 🎨 Project Visual Architecture (Human + AI Synergy)
 ![Project EcoRoad Blueprint](65f12c55-6c38-419a-acb7-d2451702a85d.png)
 ## 🎨 Project Visual Architecture (Human + AI Synergy)
-![Project EcoRoad Blueprint](a50b9b4f-560d-4fa1-9fd5-a898046c4c02.png)
+![Project EcoRoad Blueprint](watermarked_img_10880236114471980230.jpg)
 ## 🌍 Vision Statement
 India’s railway network moves millions daily, but massive amounts of kinetic, thermal, aerodynamic, and mechanical energy are continuously dissipated into the environment. **Project Chronos** proposes a multi-tiered harvesting grid to capture this wasted energy without altering passenger comfort or operational safety. 
 
